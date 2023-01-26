@@ -160,7 +160,7 @@ button:hover{
   @media (max-width:400px){
 
     .rating-card {
-        height: 28rem;
+        height: 27rem;
         width: 22rem;
         border-radius: 1.4rem;
         background-color: hsl(213, 19%, 18%);
@@ -172,9 +172,16 @@ button:hover{
       }
 
       .first-comp {
-        height: 4rem;
-        width: 4rem;
+
         margin: 1rem 0;
+      }
+
+      .second-comp {
+        margin-top: 1.3rem;
+      }
+      
+      .third-comp {
+        margin: 0.8rem 0 1.5rem 0;
       }
 
   }
