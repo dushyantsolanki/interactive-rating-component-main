@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: hsl(216, 12%, 8%);
+  display: grid;
+  place-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.rating-card-2 {
+  height: 25.5rem;
+  width: 24rem;
+  border-radius: 1.8rem;
+  background-color: hsl(213, 19%, 18%);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  padding: 2.1rem 1.7rem 2rem 1.7rem;
+}
+
+/* in this point we start Actual Styling  */
+
+.one {
+  width: 100%;
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h4 {
+  font-weight:lighter;
+  font-size: 15px;
+  letter-spacing: 1.2px;
+  backdrop-filter: blur(10px);
+  backdrop-filter: invert(7%);
+}
+
+.two {
+  margin: 1.5rem 0 2rem 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#dhamal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 2.1rem;
+  width: 14rem;
+  border-radius: 1rem;
+  font-family: "Overpass", sans-serif;
+  color: hsl(25, 97%, 53%);
+}
+
+.three {
+  margin-bottom: 0.7rem;
+  text-align: center;
+}
+.four {
+  line-height: 1.4rem;
+  padding: 0 0.2rem;
+  text-align: center;
+  font-family: "Overpass", sans-serif;
+  color: rgba(245, 249, 252, 0.518);
+  font-size: 13px;
+  letter-spacing: 0.5px;
+}
+h1 {
+  font-family: "Overpass", sans-serif;
+  font-weight: lighter;
+}
