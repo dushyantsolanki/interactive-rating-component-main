@@ -157,7 +157,7 @@ button:hover{
     letter-spacing: 0.5px;
   }
 
-  @media (max-width:360px){
+  @media (max-width:400px){
 
     .rating-card {
         height: 26rem;
