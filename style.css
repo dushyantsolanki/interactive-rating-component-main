@@ -160,8 +160,8 @@ button:hover{
   @media (max-width:360px){
 
     .rating-card {
-        height: 27rem;
-        width: 20rem;
+        height: 26rem;
+        width: 19rem;
         border-radius: 1.4rem;
         background-color: hsl(213, 19%, 18%);
         color: white;
